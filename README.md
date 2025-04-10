@@ -4,15 +4,15 @@ This repository contains MATLAB code for the research paper:
 
 The method improves SAR altimetry waveform quality over small inland water bodies (e.g., lakes and rivers) by reducing the impact of unwanted backscattered signals. It regenerates corrupted L1B waveforms using a segment-weighted FF-SAR approach, leading to more accurate water level time series.
 
-📦 Requirements
+ Requirements
 L1A SAR Altimetry Data
 The code requires L1A data products, which are large files (~1.8 GB per cycle). These can be downloaded from the Copernicus Data Space:
-👉 https://browser.dataspace.copernicus.eu/
+ https://browser.dataspace.copernicus.eu/
 
 MATLAB
 Developed and tested in MATLAB (recommended version: R2021a or later). 
 
-🧪 Included Test Data
+ Included Test Data
 For testing purposes, this repository includes data for one case study:
 
 Lake Rathbun
